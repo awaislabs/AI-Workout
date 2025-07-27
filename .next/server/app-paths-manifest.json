@@ -1,0 +1,6 @@
+{
+  "/api/workout-plans/route": "app/api/workout-plans/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/generate-workout/route": "app/api/generate-workout/route.js",
+  "/page": "app/page.js"
+}
